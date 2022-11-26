@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Gokil Mart</string>
-    <string name="content_text">Seri Zephyrus sendiri merupakan salah satu seri laptop gaming tipis dan ringan dari Asus. Jadi dipastikan bahwa Asus ROG Zephyrus M16 tetap memiliki desain yang ramping dengan ukuran layar tersebut ditambah tampilannya yang menawan. Asus ROG Zephyrus M16 masih mengusung tampilan luar yang serupa dengan versi Asus ROG Zephyrus G14 namun dibalik lubang-lubang yang ada di bagian belakang layar tidak memiliki fitur AniME Matrix. Di sini ada Prismatic Film yang akan terlihat mengkilap saat terkena pantulan cahaya.</string>
+    <string name="content_text">Seri Zephyrus sendiri merupakan salah satu seri laptop gaming tipis dan ringan dari Asus.. Jadi dipastikan bahwa Asus ROG Zephyrus M16 tetap memiliki desain yang ramping dengan ukuran layar tersebut ditambah tampilannya yang menawan. Asus ROG Zephyrus M16 masih mengusung tampilan luar yang serupa dengan versi Asus ROG Zephyrus G14 namun dibalik lubang-lubang yang ada di bagian belakang layar tidak memiliki fitur AniME Matrix. Di sini ada Prismatic Film yang akan terlihat mengkilap saat terkena pantulan cahaya.</string>
     <string name="content_specs_display">15 inches\n
         (2560×1600), 165Hz, 3ms, 100% DCI-P3\n
         IPS-LevelWQXGA \n
         PANTONE Validated, Dolby Vision</string>
-    <string name="content_specs_size">	512GB M.2 NVMe™ PCIe® 4.0 SSD\n
+    <string name="content_specs_storage">	512GB M.2 NVMe™ PCIe® 4.0 SSD\n
         	512GB M.2 NVMe™ PCIe® 4.0 SSD</string>
-    <string name="content_specs_battery">1x 3.5mm Combo Audio Jack, 1x HDMI 2.0b\n
+    <string name="content_specs_inputoutput">1x 3.5mm Combo Audio Jack, 1x HDMI 2.0b\n
         x USB 3.2 Gen 2 Type-A, 1x USB 3.2 Gen 1 Type-A\n
         1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery\n
         1x RJ45 LAN port\n
@@ -17,8 +17,8 @@
     <string name="stock">Stock 30 buah</string>
     <string name="specification">Spesifikasi</string>
     <string name="display">Display</string>
-    <string name="size">Storage</string>
-    <string name="battery">Input/Output</string>
+    <string name="storage">Storage</string>
+    <string name="inputoutput">Input/Output</string>
     <string name="seller">Penjual</string>
     <string name="my_name">Rizal Zeri Subakti</string>
     <string name="buy">Beli</string>
