@@ -112,14 +112,14 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="16dp"
                     android:textSize="14sp"
-                    android:text="@string/size" />
+                    android:text="@string/storage" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:textSize="14sp"
-                    android:text="@string/content_specs_size" />
+                    android:text="@string/content_specs_storage" />
             </TableRow>
 
             <TableRow
@@ -132,14 +132,14 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="16dp"
                     android:textSize="14sp"
-                    android:text="@string/battery" />
+                    android:text="@string/inputoutput" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:textSize="14sp"
-                    android:text="@string/content_specs_battery" />
+                    android:text="@string/content_specs_inputoutput" />
             </TableRow>
         </TableLayout>
 
